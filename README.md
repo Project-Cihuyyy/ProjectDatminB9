@@ -13,8 +13,7 @@ ProjectDatmin/
 ├── rfm_profiles.csv              # Output: profil RFM per pelanggan
 ├── rfm_scaled.csv                # Output: RFM ternormalisasi (input K-Medoids)
 ├── distribusi_rfm_sebelum.png    # Output: visualisasi sebelum normalisasi
-├── distribusi_rfm_sesudah.png    # Output: visualisasi setelah normalisasi
-└── README.md
+└── distribusi_rfm_sesudah.png    # Output: visualisasi setelah normalisasi
 ```
 
 ## 🗃️ Dataset
@@ -52,10 +51,11 @@ Data Bersih (~406k baris)
     ↓ Data Aggregation → RFM per CustomerID
 Profil Pelanggan (~4.372 pelanggan)
     ↓ Deteksi Outlier (IQR) + Normalisasi (StandardScaler)
-Data Siap K-Medoids ✅
+Data Siap K-Medoids
 ```
 
 ## 👥 Anggota Kelompok
-- [Nama 1]
-- [Nama 2]
-- [Nama 3]
+- Raden Satriyo Harry K	    242410101080
+- Muhammad Hilmy			242410101081 
+- Almasah Niko P P P		242410101091
+- Dino Wahyu Setiawan		242410101094
