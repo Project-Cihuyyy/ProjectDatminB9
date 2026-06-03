@@ -1,6 +1,6 @@
 # Segmentasi Pelanggan E-Commerce Menggunakan K-Medoids
 
-> Mata Kuliah: Data Mining — Program Studi Sistem Informasi, Fakultas Ilmu Komputer, Universitas Jember 2026
+> Mata Kuliah: Data Mining, Program Studi Sistem Informasi, Fakultas Ilmu Komputer, Universitas Jember 2026
 
 ## 📌 Deskripsi
 
